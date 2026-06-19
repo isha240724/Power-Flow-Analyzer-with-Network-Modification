@@ -37,7 +37,41 @@ newton_raphson_solver.py
 sld_drawer.py
 
 ---
+# 📷 Project Screenshots
 
+## 🖥 Main GUI
+
+![GUI](Screenshot%202026-06-19%20213724.png)
+
+---
+
+## 📊 Voltage Profile
+
+![Voltage](Screenshot%202026-06-19%20213809.png)
+
+---
+
+## 🌐 Network Single Line Diagram
+
+![SLD](Screenshot%202026-06-19%20213748.png)
+
+---
+
+## 📑 Newton-Raphson Results
+
+![NR](Screenshot%202026-06-19%20213814.png)
+
+---
+
+## 📉 Line Loss Results
+
+![Loss](Screenshot%202026-06-19%20213756.png)
+
+---
+
+## ⚡ Power Loss Summary
+
+![Summary](Screenshot%202026-06-19%20213803.png)
 ## 📈 Future Work
 
 - N-1 Contingency Analysis
